@@ -1,7 +1,7 @@
 ### Hi there, I'm Ali 👋
 
-- 📫 How to reach me: alidarab@live.com
-- 😄 Pronouns: He/Him
+📫 How to reach me: alidarab@live.com
+😄 Pronouns: He/Him
 
 I have over 7 years of experience working in web development and visual design. Currently, I work as a Senior Manger – Web & Digital Design at Your Brand Integrated Marketing Communications Inc., where build digital experiences such as websites, banner ads, newsletters and much more.
 
