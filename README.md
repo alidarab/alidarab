@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Ali 👋
 
-<!--
-**alidarab/alidarab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📫 How to reach me: alidarab@live.com
+- 😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
+I have over 7 years of experience working in web development and visual design. Currently, I work as a Senior Manger – Web & Digital Design at Your Brand Integrated Marketing Communications Inc., where build digital experiences such as websites, banner ads, newsletters and much more.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am deeply passionate about creating exceptional websites that provide intuitive, pixel-perfect user interfaces with efficient and modern back-ends.
+
+
+[View my Website](https://alidarab.com)
+
+[View my Portfolio Website](https://portfolio.alidarab.com)
