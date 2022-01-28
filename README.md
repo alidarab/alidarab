@@ -1,4 +1,4 @@
 ### Hi there, I'm Ali 👋
 
-- 📫 How to reach me: alidarab@live.com
+- 📫 How to reach me: hey@alidarab.com
 - 😄 Pronouns: He/Him
